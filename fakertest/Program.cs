@@ -33,5 +33,7 @@ namespace fakertest
         {
             Console.WriteLine(JsonConvert.SerializeObject(obj, Formatting.Indented));
         }
+
     }
+
 }
